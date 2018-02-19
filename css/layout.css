@@ -23,6 +23,7 @@
 }*/
 
 /* Posititoning Classes */
-.shadow{
-margin-left: 0px
-}
+.row {
+   clear: both;
+   margin-bottom: 2%;
+ }
